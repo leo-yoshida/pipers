@@ -1,0 +1,17 @@
+species	signalpeptide	number
+P. arb	Chloroplast	2634
+P. arb	Mitochondrial	1506
+P. arb	Signal Peptide	4717
+P. arb	Thylakoid Luminal	197
+P. gau	Chloroplast	2549
+P. gau	Mitochondrial	1525
+P. gau	Signal Peptide	4964
+P. gau	Thylakoid Luminal	170
+P. mal	Chloroplast	2415
+P. mal	Mitochondrial	1361
+P. mal	Signal Peptide	4396
+P. mal	Thylakoid Luminal	143
+P. tub	Chloroplast	1929
+P. tub	Mitochondrial	1199
+P. tub	Signal Peptide	2877
+P. tub	Thylakoid Luminal	156
