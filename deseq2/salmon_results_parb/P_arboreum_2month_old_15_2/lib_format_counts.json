@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /hd4TB_1/piper_project/sequencing_data/P_arboreum/processed/merged/merged_P_arboreum_2month_old_15_2/A_15_2_GTTTCG_L005.1.fastq, /hd4TB_1/piper_project/sequencing_data/P_arboreum/processed/merged/merged_P_arboreum_2month_old_15_2/A_15_2_GTTTCG_L005.2.fastq]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 32535152,
+    "num_assigned_fragments": 32535152,
+    "num_frags_with_concordant_consistent_mappings": 31292331,
+    "num_frags_with_inconsistent_or_orphan_mappings": 1296640,
+    "strand_mapping_bias": 0.00003534287397066676,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 1106,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 31292331,
+    "SF": 552857,
+    "SR": 742677,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}

@@ -1,0 +1,12 @@
+{
+    "salmon_version": "1.10.0",
+    "gcBias": [],
+    "index": "parb_2025_index",
+    "libType": "A",
+    "mates1": "/hd4TB_1/piper_project/sequencing_data/P_arboreum/processed/merged/merged_P_arboreum_2month_old_15_1/A_15_1_GTGGCC_L005.1.fastq",
+    "mates2": "/hd4TB_1/piper_project/sequencing_data/P_arboreum/processed/merged/merged_P_arboreum_2month_old_15_1/A_15_1_GTGGCC_L005.2.fastq",
+    "threads": "16",
+    "validateMappings": [],
+    "output": "salmon_gcbias_parb_2025/P_arboreum_2month_old_15_1",
+    "auxDir": "aux_info"
+}

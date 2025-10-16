@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /hd4TB_1/piper_project/sequencing_data/P_arboreum/processed/hisat_results/hisat_out_P_arboreum_adult_A_2/ARB_A2_S2_L001_001.1.fastq, /hd4TB_1/piper_project/sequencing_data/P_arboreum/processed/hisat_results/hisat_out_P_arboreum_adult_A_2/ARB_A2_S2_L001_001.2.fastq]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 10389951,
+    "num_assigned_fragments": 10389951,
+    "num_frags_with_concordant_consistent_mappings": 14371845,
+    "num_frags_with_inconsistent_or_orphan_mappings": 856766,
+    "strand_mapping_bias": 0.33689835925728398,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 4841851,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 9529994,
+    "SF": 384590,
+    "SR": 472176,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
