@@ -1,0 +1,7 @@
+sample condition
+P_gaudichaudianum_2-month_old_1-4 Seedling
+P_gaudichaudianum_2-month_old_2-4 Seedling
+P_gaudichaudianum_2-month_old_4-4 Seedling
+P_gaudichaudianum_adult_A_1 Adult
+P_gaudichaudianum_adult_A_3 Adult
+P_gaudichaudianum_adult_A_4 Adult

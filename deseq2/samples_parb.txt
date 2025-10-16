@@ -1,0 +1,7 @@
+sample condition
+P_arboreum_2month_old_15_1 Seedling
+P_arboreum_2month_old_15_2 Seedling
+P_arboreum_2month_old_15_5 Seedling
+P_arboreum_adult_A_1 Adult
+P_arboreum_adult_A_2 Adult
+P_arboreum_adult_A_3 Adult
