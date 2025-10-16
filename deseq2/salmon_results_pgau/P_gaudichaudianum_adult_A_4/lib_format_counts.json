@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /hd4TB_1/piper_project/sequencing_data/P_Gaudichaudianum/processed/hisat_results/hisat_out_P_gaudichaudianum_adult_A_4/6_S25_L002_001.1.fastq, /hd4TB_1/piper_project/sequencing_data/P_Gaudichaudianum/processed/hisat_results/hisat_out_P_gaudichaudianum_adult_A_4/6_S25_L002_001.2.fastq]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 10493203,
+    "num_assigned_fragments": 10493203,
+    "num_frags_with_concordant_consistent_mappings": 10105589,
+    "num_frags_with_inconsistent_or_orphan_mappings": 397205,
+    "strand_mapping_bias": 0.00016443640313276083,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 1662,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 10105589,
+    "SF": 147096,
+    "SR": 248447,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
