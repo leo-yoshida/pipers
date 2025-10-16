@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /hd4TB_1/piper_project/sequencing_data/P_Tuberculatum/processed/merged/merged_P_tuberculatum_2-month_old_3-4/T3_4_GATCAG_L001.1.fastq, /hd4TB_1/piper_project/sequencing_data/P_Tuberculatum/processed/merged/merged_P_tuberculatum_2-month_old_3-4/T3_4_GATCAG_L001.2.fastq]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 15696903,
+    "num_assigned_fragments": 15696903,
+    "num_frags_with_concordant_consistent_mappings": 14941888,
+    "num_frags_with_inconsistent_or_orphan_mappings": 773741,
+    "strand_mapping_bias": 0.0000821113937756619,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 1227,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 14941888,
+    "SF": 378222,
+    "SR": 394292,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
