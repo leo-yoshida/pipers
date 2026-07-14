@@ -1,0 +1,7 @@
+sample condition
+P_tuberculatum_2-month_old_3-4 Seedling
+P_tuberculatum_2-month_old_4-4 Seedling
+P_tuberculatum_2-month_old_8-5 Seedling
+P_tuberculatum_adult_A_1 Adult
+P_tuberculatum_adult_A_2 Adult
+P_tuberculatum_adult_A_3 Adult

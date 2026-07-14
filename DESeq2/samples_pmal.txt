@@ -1,0 +1,7 @@
+sample condition
+P_malacophyllum_2month_old_9_1 Seedling
+P_malacophyllum_2month_old_9_2 Seedling
+P_malacophyllum_2month_old_9_5 Seedling
+P_malacophyllum_adult_A_2_1 Adult
+P_malacophyllum_adult_A_3_2 Adult
+P_malacophyllum_adult_A_4_1 Adult
