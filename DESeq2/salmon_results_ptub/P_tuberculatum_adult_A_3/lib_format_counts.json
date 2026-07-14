@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /hd4TB_1/piper_project/sequencing_data/P_Tuberculatum/processed/hisat_results/hisat_out_P_tuberculatum_adult_A_3/TUB_A3_S6_L001_001.1.fastq, /hd4TB_1/piper_project/sequencing_data/P_Tuberculatum/processed/hisat_results/hisat_out_P_tuberculatum_adult_A_3/TUB_A3_S6_L001_001.2.fastq]",
+    "expected_format": "IU",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 11866715,
+    "num_assigned_fragments": 11866715,
+    "num_frags_with_concordant_consistent_mappings": 17007741,
+    "num_frags_with_inconsistent_or_orphan_mappings": 910827,
+    "strand_mapping_bias": 0.35103345000373656,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 5970286,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 11037455,
+    "SF": 407840,
+    "SR": 502987,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
