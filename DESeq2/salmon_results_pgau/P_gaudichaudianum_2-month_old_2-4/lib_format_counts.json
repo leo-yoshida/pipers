@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /hd4TB_1/piper_project/sequencing_data/P_Gaudichaudianum/processed/merged/merged_P_gaudichaudianum_2-month_old_2-4/G2_4_ACTTGA_L001.1.fastq, /hd4TB_1/piper_project/sequencing_data/P_Gaudichaudianum/processed/merged/merged_P_gaudichaudianum_2-month_old_2-4/G2_4_ACTTGA_L001.2.fastq]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 37989845,
+    "num_assigned_fragments": 37989845,
+    "num_frags_with_concordant_consistent_mappings": 36514419,
+    "num_frags_with_inconsistent_or_orphan_mappings": 1516080,
+    "strand_mapping_bias": 0.00004269363948022972,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 1559,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 36514419,
+    "SF": 770073,
+    "SR": 744448,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
