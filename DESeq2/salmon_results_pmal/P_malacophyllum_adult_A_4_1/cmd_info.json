@@ -1,0 +1,12 @@
+{
+    "salmon_version": "1.10.0",
+    "gcBias": [],
+    "index": "pmal_2025_index",
+    "libType": "A",
+    "mates1": "/hd4TB_1/piper_project/sequencing_data/P_malacophyllum/processed/merged/merged_P_malacophyllum_adult_A_4_1/M_A_4_1_ACTTGA_L004.1.fastq",
+    "mates2": "/hd4TB_1/piper_project/sequencing_data/P_malacophyllum/processed/merged/merged_P_malacophyllum_adult_A_4_1/M_A_4_1_ACTTGA_L004.2.fastq",
+    "threads": "16",
+    "validateMappings": [],
+    "output": "salmon_gcbias_pmal_2025/P_malacophyllum_adult_A_4_1",
+    "auxDir": "aux_info"
+}

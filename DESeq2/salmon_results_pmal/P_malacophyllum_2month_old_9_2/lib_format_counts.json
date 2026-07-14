@@ -1,0 +1,22 @@
+{
+    "read_files": "[ /hd4TB_1/piper_project/sequencing_data/P_malacophyllum/processed/merged/merged_P_malacophyllum_2month_old_9_2/M_9_2_ACTGAT_L005.1.fastq, /hd4TB_1/piper_project/sequencing_data/P_malacophyllum/processed/merged/merged_P_malacophyllum_2month_old_9_2/M_9_2_ACTGAT_L005.2.fastq]",
+    "expected_format": "ISR",
+    "compatible_fragment_ratio": 1.0,
+    "num_compatible_fragments": 25439767,
+    "num_assigned_fragments": 25439767,
+    "num_frags_with_concordant_consistent_mappings": 24643459,
+    "num_frags_with_inconsistent_or_orphan_mappings": 819338,
+    "strand_mapping_bias": 0.00004913841410739117,
+    "MSF": 0,
+    "OSF": 0,
+    "ISF": 1211,
+    "MSR": 0,
+    "OSR": 0,
+    "ISR": 24643459,
+    "SF": 343937,
+    "SR": 474190,
+    "MU": 0,
+    "OU": 0,
+    "IU": 0,
+    "U": 0
+}
